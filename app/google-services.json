@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718110401863",
+    "project_id": "ip-mobileapp2",
+    "storage_bucket": "ip-mobileapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718110401863:android:a7d5202ef210ce42499862",
+        "android_client_info": {
+          "package_name": "com.example.ip_mobileapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHY_OXMgKBf6qT10en8lqTa0tH5XWxlE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
